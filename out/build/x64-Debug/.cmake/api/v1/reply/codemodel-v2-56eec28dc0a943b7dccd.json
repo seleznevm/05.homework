@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05.homework",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chrono_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chrono_example-Debug-a4fa2ae9276ad9df674a.json",
+					"name" : "chrono_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_shuffle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_shuffle-Debug-1bbec9329da417f95c48.json",
+					"name" : "random_shuffle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "statistics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-statistics-Debug-847da681e79ab8e3a125.json",
+					"name" : "statistics",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/dev/05.homework/out/build/x64-Debug",
+		"source" : "C:/dev/05.homework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

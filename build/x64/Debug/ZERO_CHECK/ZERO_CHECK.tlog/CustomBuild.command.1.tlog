@@ -1,0 +1,10 @@
+^C:\DEV\05.HOMEWORK\BUILD\CMAKEFILES\807BFE2B41DD88CA5DA42801DEC2CE59\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/05.homework -BC:/dev/05.homework/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/05.homework/build/05.homework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,5 @@
+C:/dev/05.homework/out/build/x64-Debug/CMakeFiles/random_shuffle.dir
+C:/dev/05.homework/out/build/x64-Debug/CMakeFiles/chrono_example.dir
+C:/dev/05.homework/out/build/x64-Debug/CMakeFiles/statistics.dir
+C:/dev/05.homework/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/dev/05.homework/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

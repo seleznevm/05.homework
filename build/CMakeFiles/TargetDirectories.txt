@@ -1,0 +1,5 @@
+C:/dev/05.homework/build/CMakeFiles/random_shuffle.dir
+C:/dev/05.homework/build/CMakeFiles/chrono_example.dir
+C:/dev/05.homework/build/CMakeFiles/statistics.dir
+C:/dev/05.homework/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/05.homework/build/CMakeFiles/ZERO_CHECK.dir
